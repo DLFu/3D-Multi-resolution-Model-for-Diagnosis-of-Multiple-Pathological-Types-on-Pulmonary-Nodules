@@ -1,4 +1,4 @@
-# 3D-Multi-resolution-Deep-Learning-Model-for-Diagnosis-of-Multiple-Pathological-Types-on-Pulmonary-Nodules
+# 3D Multi resolution Deep Learning Model for Diagnosis of Multiple Pathological Types on Pulmonary Nodules
 
 This repository contains the Keras implementation using Tensorflow as backend.
 
@@ -33,4 +33,4 @@ opencv-python 4.1.1
 
 # LICENSE
 
-Code can only be used for ACADEMIC PURPOSES. NO COMERCIAL USE is allowed. Copyright © College of Computer Science, Nankai University. All rights reserved.
+Code can only be used for ACADEMIC PURPOSES. NO COMERCIAL USE is allowed. Copyright © School of Mechanical,Electrical & Information Engineering, Shandong University. All rights reserved.
